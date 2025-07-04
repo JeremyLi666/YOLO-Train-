@@ -5,9 +5,10 @@
 3. 在Fetch_data中指定币种和频率(1d/4h/1h)
 4. 运行Fetch_data, 获取数据，文件保存为data_币种_daily.csv
 5. 在General Graph中运行Graphing, 生成案例图像（默认一个月一个分段）
-6. 更多全币种数据： https://pan.baidu.com/s/1hVYb6mkYvmE7EPxdqpQ7OQ?pwd=1212 提取码: 1212 
-7. 部分案例数据和案例图像已生成，每次运行请注意命名区分
-8. 目前案例给出的图像全部基于 #data_BTC_daily.csv 运行BCGH四张图生成前请注意覆盖问题
+6. 更多全币种数据： https://pan.baidu.com/s/1hVYb6mkYvmE7EPxdqpQ7OQ?pwd=1212 提取码: 1212
+7. 目前已有的案例训练集（基于#data_BTC_daily.csv的过去一年的BTC日频数据） https://pan.baidu.com/s/1-_xlqsZuN7YOBimcO7TXbQ?pwd=rwy9 提取码: rwy9 
+8. 部分案例数据和案例图像已生成，每次运行请注意命名区分
+9. 运行BCGH四张图生成前请注意覆盖问题
 
 
 
